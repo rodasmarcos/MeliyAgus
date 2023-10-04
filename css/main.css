@@ -3,7 +3,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("/Wedding-main/images/aym.jpeg") no-repeat center center;
+  background: url("https://raw.githubusercontent.com/rodasmarcos/Wedding/main/images/aym.jpeg") no-repeat center center;
   background-size: cover;
 
 
