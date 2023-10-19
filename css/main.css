@@ -3,7 +3,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("https://raw.githubusercontent.com/rodasmarcos/MeliyAgus/main/images/aym.jpeg") no-repeat center center;
+  background: url("C:\Users\Intel\Downloads\MeliyAgus-main\images\aym.jpeg") no-repeat center center;
   background-size: cover;
 
 
@@ -123,7 +123,7 @@ body {
 
 /* RSVP Style */
 .ww-rsvp-detail {
-  background: url("/Wedding-main/images/aym.jpeg") no-repeat center center;
+  background: url("https://raw.githubusercontent.com/rodasmarcos/MeliyAgus/main/images/First.jpeg") no-repeat center center;
   background-size: cover;
   min-height: 500px;
   position: relative; }
